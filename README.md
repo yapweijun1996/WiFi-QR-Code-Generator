@@ -29,3 +29,7 @@ A simple web application that generates a QR code for connecting to a WiFi netwo
 3.Select the encryption type from the dropdown menu.
 4.Click the "Generate QR Code" button.
 5.A QR code will be displayed that you can scan with a mobile device to connect to the WiFi network.
+
+## Demo
+<a href="https://codepen.io/yapweijun1996/pen/GRVNbbo">codepen.io</a>
+https://codepen.io/yapweijun1996/pen/GRVNbbo
