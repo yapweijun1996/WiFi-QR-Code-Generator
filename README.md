@@ -23,7 +23,7 @@ A simple web application that generates a QR code for connecting to a WiFi netwo
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 - Basic understanding of HTML, CSS, and JavaScript
 
-##Usage
+## Usage
 1.Enter your WiFi SSID (network name).
 2.Enter your WiFi password.
 3.Select the encryption type from the dropdown menu.
