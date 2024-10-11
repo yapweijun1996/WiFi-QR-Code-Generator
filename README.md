@@ -32,4 +32,4 @@ A simple web application that generates a QR code for connecting to a WiFi netwo
 
 ## Demo
 <a href="https://codepen.io/yapweijun1996/pen/GRVNbbo" target="_blank" style="font-weight:600;">Visit Codepen : </a>
-<font>https://codepen.io/yapweijun1996/pen/GRVNbbo</font>
+<a href="https://codepen.io/yapweijun1996/pen/GRVNbbo" target="_blank" style="font-weight:600;">https://codepen.io/yapweijun1996/pen/GRVNbbo</a>
